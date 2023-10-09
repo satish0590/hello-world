@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning . Welcome to CI/CD and DOcker Build Kiran Satish Hurusnale</h1>
+   <h1> Thankyou, Happy Learning . Welcome to CI/CD and DOcker Build Kiran Satish Hurusnale New Update</h1>
 
   
 </form>
